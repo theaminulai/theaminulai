@@ -3,12 +3,11 @@
 
 ## 🙋‍♂️ About Me
 
-I’m **Md Aminul Islam** — known online as [@theaminuli](https://x.com/theaminuli). I’m an **engineer**, **designer**, and **philosophy enthusiast** with a deep passion for the art of coding. I believe great software isn’t just built — it’s a dream thoughtfully realized.
+I’m **Md Aminul Islam** — known online as [@theaminulai](https://www.linkedin.com/in/theaminulai/). I’m an **engineer**, **designer**, and **philosophy enthusiast** with a deep passion for the art of coding. I believe great software isn’t just built — it’s a dream thoughtfully realized.
 
 I work across the stack, mostly with **JavaScript**, **React**, **Vue**,  **TypeScript**, **WordPress**, **PHP**, **Next.js**, and **REST APIs**. I care about **clean architecture**, **performance optimization**, and **accessibility-first design** — always striving to create experiences that feel intuitive and genuinely user-friendly.
 
-Find me around the web as **Aminul Islam (@theaminuli)** or at 🌐 [theaminul.com](https://theaminul.com).
-
+Find me around the web as **Aminul Islam (@theaminulai)** or at 🌐 [theaminul.com](https://theaminul.com).
 ## 👨‍💻 Skills & Experience
 
 - **Languages & Frameworks**: JavaScript, React, Next.js, Node.js, jQuery  
@@ -72,19 +71,13 @@ I see software as a blend of logic, design, and intention — where every line o
 I’d love to hear from you! Feel free to reach out through any of the platforms below:
 
 <p align="left">
-  <a href="https://www.facebook.com/theaminull/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/theaminuli/">
+  <a href="https://www.linkedin.com/in/theaminulai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/theaminuli">
+  <a href="https://x.com/theaminulai">
     <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
   </a>
   <a href="mailto:mdaminulislam2015bd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/theaminuli">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
