@@ -1,4 +1,4 @@
-![I'm Aminul Islam,](https://raw.githubusercontent.com/theaminuli/theaminul/refs/heads/main/Github-Profile-Photo.png)
+![I'm Aminul Islam,](https://raw.githubusercontent.com/theaminulai/theaminul/refs/heads/main/Github-Profile-Photo.png)
 ### 👋 Hey there, my curious friend!
 
 ## 🙋‍♂️ About Me
@@ -48,8 +48,8 @@ I see software as a blend of logic, design, and intention — where every line o
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 <!-- ### 😂 Contributions :
 <p align="left">
-    <a href="https://github.com/theaminuli/github-readme-streak-stats">
-        <img width= "100%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aminul Islam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theaminuli&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/theaminulai/github-readme-streak-stats">
+        <img width= "100%" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aminul Islam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theaminulai&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p> -->
 
@@ -58,11 +58,11 @@ I see software as a blend of logic, design, and intention — where every line o
 <p style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
   <!-- GitHub Stats -->
   <img width="100%" alt="Aminul Islam's GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=theaminuli&show_icons=true&rank_icon=github&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+      src="https://github-readme-stats.vercel.app/api?username=theaminulai&show_icons=true&rank_icon=github&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
   <!-- Top Languages -->
   <!-- <img width="100%" alt="Aminul Islam's Top Languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminuli&layout=compact&card_width=300&theme=react&hide_border=true&bg_color=0D1117" /> -->
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminulai&layout=compact&card_width=300&theme=react&hide_border=true&bg_color=0D1117" /> -->
 </p>
 
 #theaminul #CodeLife #JavaScript #React #WordPress #Elementor
@@ -81,3 +81,4 @@ I’d love to hear from you! Feel free to reach out through any of the platforms
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
