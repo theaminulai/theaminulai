@@ -1,4 +1,4 @@
-![I'm Aminul Islam,](https://raw.githubusercontent.com/theaminulai/theaminul/refs/heads/main/Github-Profile-Photo.png)
+![I'm Aminul Islam,](https://github.com/theaminulai/theaminulai/blob/main/Github-Profile-Photo.png?raw=true)
 ### 👋 Hey there, my curious friend!
 
 ## 🙋‍♂️ About Me
@@ -81,4 +81,5 @@ I’d love to hear from you! Feel free to reach out through any of the platforms
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 
