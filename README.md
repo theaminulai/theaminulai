@@ -24,7 +24,13 @@ Here are some of the WordPress plugins and tools I’ve helped build and maintai
 - 🧱 [GutenKit – Blocks Addon](https://wordpress.org/plugins/gutenkit-blocks-addon/) — A modern block toolkit for Gutenberg, built for speed and flexibility.
 - 🛒 [ShopEngine](https://wordpress.org/plugins/shopengine/) — The most complete WooCommerce builder for Elementor.
 - 🎯 [Popup Builder Block](https://wordpress.org/plugins/popup-builder-block/) — A lightweight popup builder for the WordPress block editor.
-
+- ⚡ [PageFlash](https://wordpress.org/plugins/pageflash/) — A high-performance WordPress plugin for optimizing page speed.
+- 📝 [Pointwise Summary](https://github.com/theaminulai/pointwise-summary) — AI-powered TL;DR A tool for generating concise, bullet-point summaries.
+- ✉️ [Letter Flux](https://github.com/theaminulai/letter-flux) — Interactive tool for creating and fine-tuning fluid CSS properties using CSS clamp() function. Built with Vue.js for responsive design visualization.
+- 🌐 [Modern 3D Portfolio](https://github.com/theaminulai/modern-3d-portfolio) — A stunning 3D portfolio website with interactive animations.
+- 🤖 [WordPress AI](https://github.com/WordPress/ai) — Experimental AI features plugin for WordPress, providing opt-in AI capabilities for authors, editors, and admins directly within WordPress.
+- 📰 [Blogy](https://github.com/theaminulai/blogy) — A clean and minimalist blogging platform.
+- 🎨 [Travaaccount Theme](https://github.com/theaminulai/travaaccount-theme) — A custom Gutenberg-based WordPress theme converted from Figma design.
 ## 🧠 Philosophy
 
 I see software as a blend of logic, design, and intention — where every line of code reflects clarity, creativity, and care. I’m always learning, always building, and always dreaming.
