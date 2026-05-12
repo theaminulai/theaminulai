@@ -1,4 +1,4 @@
-![I'm Aminul Islam,](https://github.com/theaminulai/theaminulai/blob/main/aminul_islam_banner.svg?raw=true)
+![I'm Aminul Islam,](https://github.com/theaminulai/theaminulai/blob/main/Github-Profile-Photo.png?raw=true)
 ### 👋 Hey there, my curious friend!
 
 ## 🙋‍♂️ About Me
