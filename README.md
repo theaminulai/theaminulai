@@ -11,8 +11,10 @@ I’m **Md Aminul Islam** — known online as [@theaminulai](https://www.linkedi
 
 I work across the stack, mostly with **JavaScript**, **React**, **Vue**,  **TypeScript**, **WordPress**, **PHP**, **Next.js**, and **REST APIs**. I care about **clean architecture**, **performance optimization**, and **accessibility-first design** — always striving to create experiences that feel intuitive and genuinely user-friendly.
 
-Find me around the web as **Aminul Islam (@theaminulai)** or at 🌐 [theaminul.com](https://theaminul.com).
-
+Find me around the web as **Aminul Islam (@theaminulai)** or at 🌐 [theaminul.com](https://theaminul.com). 
+- 🌐 Website: https://theaminul.com
+- 💼 LinkedIn: https://www.linkedin.com/in/theaminulai/
+- 💻 OF GitHub: https://github.com/aminul-xs
 ## 👨‍💻 Skills & Experience
 
 | Category | Stack |
