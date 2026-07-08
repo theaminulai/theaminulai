@@ -1,4 +1,5 @@
 ![I'm Aminul Islam,](https://github.com/theaminulai/theaminulai/blob/main/Github-Profile-Photo.png?raw=true)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-theaminul.com-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://theaminul.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theaminulai/)
 [![Twitter/X](https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/theaminulai)
@@ -63,10 +64,6 @@ Find me around the web as **Aminul Islam (@theaminulai)** or at 🌐 [theaminul.
 
 I see software as a blend of logic, design, and intention — where every line of code reflects clarity, creativity, and care. I’m always learning, always building, and always dreaming.
 
-<div align="center">
-
 ☕ **Let's connect** — always happy to talk WordPress, React, or clean architecture.
-
-</div>
 
 
