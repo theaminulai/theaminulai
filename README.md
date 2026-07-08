@@ -12,8 +12,6 @@ I work across the stack, mostly with **JavaScript**, **React**, **Vue**,  **Type
 
 Find me around the web as **Aminul Islam (@theaminulai)** or at 🌐 [theaminul.com](https://theaminul.com).
 
----
-
 ## 👨‍💻 Skills & Experience
 
 | Category | Stack |
@@ -38,7 +36,6 @@ Find me around the web as **Aminul Islam (@theaminulai)** or at 🌐 [theaminul.
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS Code" />
 </p>
 
----
 
 ## 🧩 Featured Projects
 
@@ -61,23 +58,10 @@ Find me around the web as **Aminul Islam (@theaminulai)** or at 🌐 [theaminul.
 | 📰 [Blogy](https://github.com/theaminulai/blogy) | A clean, minimalist blogging platform |
 | 🎨 [Travaaccount Theme](https://github.com/theaminulai/travaaccount-theme) | Custom Gutenberg WordPress theme, converted from Figma |
 
----
+
 ## 🧠 Philosophy
 
 I see software as a blend of logic, design, and intention — where every line of code reflects clarity, creativity, and care. I’m always learning, always building, and always dreaming.
-
-## 📊 GitHub Stats
----
-<p align="center">
-<img width="48%" alt="Aminul Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theaminulai&show_icons=true&rank_icon=github&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img width="48%" alt="Aminul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaminulai&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theaminulai&theme=react&hide_border=true&background=0D1117" alt="Aminul Islam's streak" />
-</p>
-
----
 
 <div align="center">
 
